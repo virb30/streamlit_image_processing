@@ -4,3 +4,6 @@ Esse projeto consiste numa aplicação Streamlit onde é possível realizar o up
 de uma imagem e aplicar alguns filtros utilizando OpenCV.
 
 
+### Demo
+
+https://streamlit-image-processing.herokuapp.com/
