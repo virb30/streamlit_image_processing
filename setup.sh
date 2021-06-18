@@ -1,4 +1,5 @@
 mkdir -p ~/.streamlit/
+
 echo "\
 [general]\n\
 email = \"$EMAIL\"\n\
